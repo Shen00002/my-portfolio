@@ -24,7 +24,7 @@ nav {
 nav ul {
     list-style: none;
     display: flex;
-    justify-content: center;
+    justify-content: right;
     gap: 2rem;
     flex-wrap: wrap;
 }
@@ -228,4 +228,5 @@ footer {
     .skills-grid {
         grid-template-columns: 1fr;
     }
+
 }
